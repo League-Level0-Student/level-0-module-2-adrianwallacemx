@@ -1,0 +1,7 @@
+Ramdom ran = new Ramdom();
+int opponentSelection=ran.nextInt(1000)  ;
+Random ran+ new Random();
+int opponentSelection=ran.nextInt(900)  ;
+
+
+
